@@ -5,7 +5,7 @@ opencv-python>=4.9
 Pillow>=10.0
 
 # Phase 2
-google-generativeai>=0.8
+google-genai>=1.0
 PyQt6>=6.6
 python-dotenv>=1.0
 qasync>=0.27
